@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6F38A431-7E55-457B-B45E-C6E1AE056494}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstAPI/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="MyFirstAPI/Controllers/PeopleController.cs" Line="56" Column="1" />
+      <File FileName="MyFirstAPI/Models/Person.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstAPI" expanded="True">
+            <Node name="MyFirstAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PeopleController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

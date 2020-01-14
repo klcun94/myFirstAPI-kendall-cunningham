@@ -1,0 +1,16 @@
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.csprojAssemblyReference.cache
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.RazorAssemblyInfo.cache
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.RazorAssemblyInfo.cs
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.AssemblyInfoInputs.cache
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.AssemblyInfo.cs
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.deps.json
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.runtimeconfig.json
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.runtimeconfig.dev.json
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.dll
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.pdb
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.RazorTargetAssemblyInfo.cache
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.dll
+/Users/kendall/Documents/DevFolder/csharp-net/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.pdb
